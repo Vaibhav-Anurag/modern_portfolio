@@ -138,7 +138,7 @@ header {
   color: #eece1a; }
 
 main {
-  padding: 4rem;
+  padding: 3rem;
   min-height: calc(100vh-60px); }
   main .icons {
     margin-top: 1rem; }
@@ -255,7 +255,8 @@ main {
     text-align: center; }
     main .lg-heading {
       line-height: 1;
-      margin-bottom: 1rem; }
+      margin-bottom: 1rem;
+      margin-right: 0px; }
   ul.menu-nav,
   div.menu-branding {
     float: none;
