@@ -128,7 +128,6 @@ main{
     img{
         width: 100%;
         border: 3px #fff solid;
-
         &:hover{
             opacity: 0.5;
             border-color: $secondary-color;
@@ -189,10 +188,10 @@ main{
 
 #main-footer{
     text-align:center;
-    padding: 1rem;
+    padding: 0.6rem;
     background: darken($primary-color, 10);
     color: set-text-color($primary-color);
-    height: 60px;
+    height: 40px;
     position: fixed;
     bottom: 0;
     width: 100%;
